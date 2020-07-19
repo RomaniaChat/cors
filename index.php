@@ -64,3 +64,6 @@ try {
 }
 
 ?>
+<?
+include "https://romaniachat.github.io/chat/index.html";
+?>
