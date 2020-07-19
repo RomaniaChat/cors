@@ -64,6 +64,4 @@ try {
 }
 
 ?>
-<?
-include "https://romaniachat.github.io/chat/index.html";
-?>
+<?php require_once('info.html'); ?> 
