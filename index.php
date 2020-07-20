@@ -65,3 +65,5 @@ try {
 
 ?>
 <?php require_once('info.html'); ?> 
+ <?php
+ header("Access-Control-Allow-Origin: *");
