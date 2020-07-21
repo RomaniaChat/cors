@@ -1,0 +1,14 @@
+{
+  "name": "cors",
+  "description": "Cors Proxy",
+  "repository": "https://github.com/RomaniaChat/cors",
+  "keywords": [
+    "node", 
+    "overwatch",
+    "api",
+    "rest",
+    "http",
+    "srv",
+    "express"
+  ]
+}
